@@ -2,7 +2,7 @@ name: Python CI with Black and Pytest
 
 on:
   push:
-    branches: [ fix-auth ]
+    branches: [ feat-auth ]
 #   pull_request:
 #     branches: [ main ]
 
